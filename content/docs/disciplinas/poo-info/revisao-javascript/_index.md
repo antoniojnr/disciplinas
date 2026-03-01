@@ -17,4 +17,5 @@ Dominar esses fundamentos é essencial para compreender como objetos armazenam e
 
 [1. Fundamentos essenciais da linguagem](/docs/disciplinas/poo-info/revisao-javascript/1-fundamentos/)\
 [2. Estruturas de controle](/docs/disciplinas/poo-info/revisao-javascript/2-estruturas-controle/)\
-[3. Funções](/docs/disciplinas/poo-info/revisao-javascript/3-funcoes/)
+[3. Funções](/docs/disciplinas/poo-info/revisao-javascript/3-funcoes/)\
+[4. Arrays e objetos](/docs/disciplinas/poo-info/revisao-javascript/4-arrays-objetos/)

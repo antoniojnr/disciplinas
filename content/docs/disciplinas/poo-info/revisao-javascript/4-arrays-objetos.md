@@ -514,8 +514,6 @@ d. Exiba todas as músicas numeradas, começando em 1.
 
 **(Questão 06)** Responda com suas palavras:
 
-a. Qual a diferença entre acessar uma propriedade com notação de ponto e com notação de colchetes? Em que situação os colchetes são indispensáveis?
-
-b. O que é um método? Em que sentido ele é diferente de uma função comum?
-
+a. Qual a diferença entre acessar uma propriedade com notação de ponto e com notação de colchetes? Em que situação os colchetes são indispensáveis?\
+b. O que é um método? Em que sentido ele é diferente de uma função comum?\
 c. Por que arrays de objetos são uma estrutura tão comum na programação? Que tipo de dado eles representam bem?
