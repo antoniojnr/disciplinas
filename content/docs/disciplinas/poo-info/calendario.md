@@ -24,9 +24,9 @@ weight: 1
   - **2ª avaliação**: 06/04
   - **Recuperação**: 13/04
 - **2º bimestre**
-  - **1ª avaliação**:
-  - **2ª avaliação**:
-  - **Recuperação**:
+  - **1ª avaliação**: 25/05
+  - **2ª avaliação**: 08/06
+  - **Recuperação**: 22/06
 - **3º bimestre**
   - **1ª avaliação**:
   - **2ª avaliação**:
