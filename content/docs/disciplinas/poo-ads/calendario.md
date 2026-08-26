@@ -130,7 +130,7 @@ weight: 1
   </tr>
   <tr>
     <td>05 <em>(seg)</em></td>
-    <td></td>
+    <td>Primeira avaliação</td>
     <td>80/160 aulas</td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ weight: 1
   </tr>
   <tr>
     <td>30 <em>(seg)</em></td>
-    <td></td>
+    <td>Segunda avaliação</td>
     <td>142/160 aulas</td>
   </tr>
 
